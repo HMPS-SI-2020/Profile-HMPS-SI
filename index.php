@@ -68,7 +68,10 @@
           <li><a href="#services">Programs</a></li>
           <li><a href="#portfolio">Gallery</a></li>
           <li><a href="#team">Team</a></li>
-          <li><a href="#registration">Registration</a></li>
+          <li> <a data-toggle="modal" data-target="#myModal"> Form</a>
+         </li>
+
+
 
         </ul>
       </nav><!-- .main-nav -->
@@ -76,10 +79,15 @@
     </div>
   </header><!-- #header -->
 
+
+
+
+
   <!--==========================
     Intro Section
     ============================-->
   <section id="head" class="clearfix">
+
     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
 
       <div class="carousel-inner">
@@ -165,12 +173,12 @@
                 6 divisi antara lain:</p>
 
               <ul>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi Pemrograman</li>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi Multimedia</li>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi Jaringan</li>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi Informasi dan Komunikasi</li>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi Keanggotaan</li>
-                <li><i class="ion-android-checkmark-circle"></i> Devisi E-Sport</li>
+                <li><i class="ion-android-checkmark-circle"></i> Divisi Pemrograman</li>
+                <li><i class="ion-android-checkmark-circle"></i> Divisi Multimedia</li>
+                <li><i class="ion-android-checkmark-circle"></i> Divisi Jaringan</li>
+                <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi Informasi dan Komunikasi</li> -->
+                <li><i class="ion-android-checkmark-circle"></i> Divisi Keanggotaan</li>
+                <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi E-Sport</li> -->
               </ul>
 
               <p>Sampai Sekarang (Tahun Ajaran 2019/2020) HMPS SI telah memiliki anggota sebanyak 43 orang, yang
@@ -785,7 +793,7 @@
               <img src="img/team/tony.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Tony Wirawan</h4>
+                  <h4>Afandi Wu</h4>
                   <span>Leader</span>
                 </div>
               </div>
@@ -797,7 +805,7 @@
               <img src="img/team/hermanto.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Hermanto</h4>
+                  <h4>Andry</h4>
                   <span>Co. Leader</span>
                 </div>
               </div>
@@ -809,7 +817,7 @@
               <img src="img/team/agus.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Agusyanto</h4>
+                  <h4>Tony Wirawan</h4>
                   <span>General Counsel 1</span>
                 </div>
               </div>
@@ -821,7 +829,7 @@
               <img src="img/team/kelly.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Kelly Sandrine</h4>
+                  <h4>Li Cen</h4>
                   <span>General Counsel 2</span>
                 </div>
               </div>
@@ -830,12 +838,15 @@
         </div>
 
         <div class="row">
+          <div style="width:12%;">
+          </div>
+
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/melna.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Melna Caintan</h4>
+                  <h4>Julia</h4>
                   <span>First Secretary</span>
                 </div>
               </div>
@@ -847,7 +858,7 @@
               <img src="img/team/rk.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Raudlatul Khairiah A.</h4>
+                  <h4>Celine Te</h4>
                   <span>Second Secretary</span>
                 </div>
               </div>
@@ -859,14 +870,14 @@
               <img src="img/team/licen.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Licen</h4>
-                  <span>First Treasurer</span>
+                  <h4>Wisely Liang</h4>
+                  <span>Treasurer</span>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
               <img src="img/team/gilang.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -876,11 +887,13 @@
                 </div>
               </div>
             </div>
+          </div> -->
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           </div>
-        </div>
+          </div>
 
         <center>
-          <h4 class="mt-5">Multimedia Division</h4>
+          <h4>Multimedia Division</h4>
         </center>
         <div class="row">
 
@@ -890,7 +903,7 @@
               <img src="img/team/eko.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Eko Prastius</h4>
+                  <h4>Hendy</h4>
                   <span>Head of Multimedia Division</span>
                 </div>
               </div>
@@ -902,7 +915,7 @@
               <img src="img/team/nando.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Nando Fransco</h4>
+                  <h4>Rino</h4>
                   <span>Mentor of Multimedia Division</span>
                 </div>
               </div>
@@ -915,11 +928,11 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/frenkyedit.jpg" class="img-fluid" alt="">
+              <img src="img/team/frenky.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Frenky</h4>
-                  <span>Member</span>
+                  <h4>Jimmy</h4>
+                  <span>Content Creator</span>
                 </div>
               </div>
             </div>
@@ -930,8 +943,8 @@
               <img src="img/team/rach.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Rachmawan</h4>
-                  <span>Member</span>
+                  <h4>Cindy Ariadi</h4>
+                  <span>Content Creator</span>
                 </div>
               </div>
             </div>
@@ -942,8 +955,8 @@
               <img src="img/team/putra.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Putra Pamungkas</h4>
-                  <span>Member</span>
+                  <h4>Giovanno Estevan</h4>
+                  <span>Video Editor</span>
                 </div>
               </div>
             </div>
@@ -954,15 +967,15 @@
               <img src="img/team/priscelia.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Priscelia Lee</h4>
-                  <span>Member</span>
+                  <h4>Veri Hartanto</h4>
+                  <span>Photo Editor</span>
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
 
           <div style="width:12%;">
           </div>
@@ -1005,10 +1018,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
           </div>
-        </div>
+        </div> -->
 
-        <center>
-          <h4 class="mt-5">Networking Division</h4>
+        <!-- <center>
+          <h4>Networking Division</h4>
         </center>
         <div class="row">
 
@@ -1106,10 +1119,10 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <center>
-          <h4 class="mt-5">Programming Division</h4>
+          <h4>Programming Division</h4>
         </center>
         <div class="row">
 
@@ -1119,7 +1132,7 @@
               <img src="img/team/jedi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Jediana</h4>
+                  <h4>Steven Salim</h4>
                   <span>Head of Programming Division</span>
                 </div>
               </div>
@@ -1131,7 +1144,7 @@
               <img src="img/team/derick.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Derick</h4>
+                  <h4>M.Romi Muhtarom</h4>
                   <span>Mentor of Programming Division</span>
                 </div>
               </div>
@@ -1143,13 +1156,16 @@
         </div>
 
         <div class="row">
+          <div style="width:12%;">
+          </div>
+
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/eric.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Eriec Tanijaya</h4>
-                  <span>Member</span>
+                  <h4>Indra</h4>
+                  <span>Web Programmer</span>
                 </div>
               </div>
             </div>
@@ -1160,8 +1176,8 @@
               <img src="img/team/ananda.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Ananda Wiradharma</h4>
-                  <span>Member</span>
+                  <h4>Kelvin</h4>
+                  <span>Web Programmer</span>
                 </div>
               </div>
             </div>
@@ -1172,14 +1188,18 @@
               <img src="img/team/charlie.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Charlie Aprilianto</h4>
-                  <span>Member</span>
+                  <h4>Mobile & Desktop App Programmer</h4>
+                  <span>Eiric Tanijaya</span>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          </div>
+          </div>
+
+          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
               <img src="img/team/gilang.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -1240,10 +1260,10 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <center>
-          <h4 class="mt-5">Information & Communication Division</h4>
+          <h4>Publication & Communication Division</h4>
         </center>
         <div class="row">
 
@@ -1254,7 +1274,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Meiliverani Erline</h4>
-                  <span>Head of Info. & Comm. Division</span>
+                  <span>Head and Mentor of Public. & Comm. Division</span>
                 </div>
               </div>
             </div>
@@ -1265,8 +1285,8 @@
               <img src="img/team/rocky.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Rocky</h4>
-                  <span>Mentor of Info. & Comm. Division</span>
+                  <h4>Meiliverani Erline</h4>
+                  <span>Mentor of Public. & Comm. Division</span>
                 </div>
               </div>
             </div>
@@ -1356,8 +1376,8 @@
           </div>
         </div>
 
-        <center>
-          <h4 class="mt-5">Membership Division</h4>
+        <!-- <center>
+          <h4>Membership Division</h4>
         </center>
         <div class="row">
 
@@ -1474,7 +1494,7 @@
 
 
         <center>
-          <h4 class="mt-5">E-Sports Division</h4>
+          <h4>E-Sports Division</h4>
         </center>
         <div class="row">
 
@@ -1528,101 +1548,101 @@
               </div>
             </div>
 
-          </div>
+          </div> -->
 
 
 
-    </section><!-- #team -->
-
-
-      <!--==========================
-      Registration Section
-      ============================-->
-      <section id="registration" class="section-bg">
-        <div class="container">
-  
-          <header class="section-header">
-            <h3>Freshmen Registration</h3>
-  
-          </header>
-  
-          <div class="container-fluid">
-            <!-- <div class="row"> -->
-              <!-- the old -->
-              <!-- <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-                <div class="box">
-                  <img src="img/logo/mulmed.png" style="height:50px;margin-bottom:20px;">
-                  <h4 class="title"><a href="">Multimedia</a></h4>
-                  <p class="description">Mempelajari dan meng-explore mengenai teknologi digital dan multimedia sebagai
-                    media komunikasi.
-                    Mengolah berbagai media seperti foto, video, animasi, teks, audio, grafik, design visual dan media
-                    lainnya secara kreatif dan inovatif dengan fungsi memberi informasi, menyampaikan pesan, menghibur dan
-                    mengajak.</p>
-                </div>
-              </div>
-              <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-                <div class="box">
-                  <img src="img/logo/program.png" style="height:50px;margin-bottom:20px;">
-                  <h4 class="title"><a href="">Programming</a></h4>
-                  <p class="description">Melatih mahasiswa/i Sistem Informasi untuk mampu menganalisa, membangun
-                    (developing), menguji (testing), memperbaiki (debug) dan mempertahankan
-                    kode dari suatu program. Mengenalkan berbagai macam bahasa pemrograman yang banyak digunakan dikalangan
-                    developer. Melatih skill dalam algoritma, logika, problem solving dan
-                    bahasa pemrograman dengan capaian dapat membuat sebuah program sesuai yang dibutuhkan, baik program
-                    desktop, mobile maupun web.</p>
-                </div>
-              </div>
     
-              <div class="col-md-12 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-                <div class="box">
-                  <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
-                  <h4 class="title"><a href="">Networking</a></h4>
-                  <p class="description"> Memfokuskan mahasiswa/i kepada penerapan dan penggunaan jaringan, baik antar
-                    komputer maupun device lainnya dengan tujuan terhubung untuk saling
-                    sharing atau pengiriman data dan resources lainnya. Memantapkan skill dalam penggunaan perangkat keras
-                    (hardware) maupun perangkat lunak (software) untuk membangun sebuah
-                    jaringan</p>
-                </div>
-              </div> -->
-              <!-- the old -->
-    
-              <!-- the new -->
-              <form>
-                <div class="form-group">
-                  <label for="formGroupExampleInput">Name</label>
-                  <input type="text" class="form-control" id="name" name="name" placeholder="Name" required>
-                </div>
-                <div class="form-group">
-                  <label for="formGroupExampleInput2">NPM</label>
-                  <input type="text" oninput="numberOnly(this.id);" class="form-control" id="npm" name="npm" placeholder="NPM" min="0" maxlength="7" required>
-                </div>
-                <div class="form-group">
-                  <label for="formGroupExampleInput2">Email</label>
-                  <input type="email" class="form-control" id="email" name="email" placeholder="Input a Valid E-Mail" required>
-                </div>
-                <div class="form-group">
-                  <label for="formGroupExampleInput2">Phone Number</label>
-                  <input type="text" oninput="numberOnly(this.id);" class="form-control" id="phonenumber" name="phonenumber" placeholder="Active Phone Number" min="0" maxlength="13" required>
-                </div>
-                <div class="form-group">
-                  <label for="formGroupExampleInput2">Line ID</label>
-                  <input type="text" class="form-control" id="lineid" name="lineid" placeholder="Line ID" required>
-                </div>
-                <div class="form-group">
-                  <label for="formGroupExampleInput2">Personal Photo</label>
-                    <div class="custom-file">
-                      <input type="file" class="custom-file-input" id="inputGroupFile01" accept="image/*" required>
-                      <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
-                    </div>
-                </div>
-              </form>
-              <input class="btn btn-primary mt-3 mb-5" type="submit" value="Submit">
-              <!-- the new -->
-            <!-- </div> -->
-          </div>
+
+
+
+   <!-- modal input -->
+<div id="myModal" class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
+      </div>
+      <div class="modal-body">
+        <form action="form_act.php" method="post" enctype="multipart/form-data" >
+        
+     
+
+        <div class="form-group">
+            <label>Email</label>
+            <input name="email" type="email" class="form-control" required placeholder="Your Email...">
         </div>
-      </section><!-- #registration -->
 
+        <div class="form-group">
+            <label>Register Number</label>
+            <input name="noreg" type="text" class="form-control" required placeholder="Register Numbber... (ex: BM202020) ">
+        </div>
+
+          <div class="form-group">
+            <label>Full Name</label>
+            <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
+          </div>
+
+          <div class="form-group">
+            <label>Place of Birth</label>
+            <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
+          </div>
+
+          <div class="form-group">
+            <label>Date Of Birth</label>
+            <input name="tgl" type="date" class="form-control" required>
+          </div>
+
+          <div class="form-group">
+            <label>Hobby</label>
+            <select name="hobby" type="text" class="form-control">
+                
+                  <option>Sports </option>
+                  <option>Game</option>
+                  <option>Eating</option>
+                   <option>Walking</option>
+                   <option>the rest of it</option>
+                   <option>Others</option>
+                
+              </select>
+              
+          </div>
+      
+          <div class="form-group">
+            <label>School Origin</label>
+            <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
+          </div>  
+
+  
+          <div class="form-group">
+            <label>Phone Number</label>
+            <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ...">
+          </div>
+          <div class="form-group">
+            <label>ID LINE</label>
+            <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
+          </div>
+
+          <div class="form-group">
+            <label>Picture</label>
+            <input name="gambar" type="file" accept="image/*" class="form-control" required>
+
+          </div>
+          
+
+                                    
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+          <input type="submit" class="btn btn-primary" value="Submit">
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+</div>
 
 
     <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>

@@ -130,11 +130,3 @@
 
 })(jQuery);
 
-function numberOnly(id) {
-  // Get element by id which passed as parameter within HTML element event
-  var element = document.getElementById(id);
-  // Use numbers only pattern, from 0 to 9
-  var regex = /[^0-9]/gi;
-  // This removes any other character but numbers as entered by user
-  element.value = element.value.replace(regex, "");
-};
