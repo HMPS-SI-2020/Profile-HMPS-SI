@@ -181,7 +181,7 @@
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi E-Sport</li> -->
               </ul>
 
-              <p>Sampai Sekarang (Tahun Ajaran 2020/2021) HMPS SI telah memiliki anggota sebanyak 27 orang, yang
+              <p>Sampai Sekarang (Tahun Ajaran 2020/2021) HMPS SI telah memiliki anggota sebanyak 31 orang, yang
                 masing-masing memiliki peran tersendiri baik dalam struktur
                 organisasi maupun masing-masing divisi. Setiap mahasiswa Prodi SI memiliki hak untuk bergabung dalam
                 HMPS SI. Dengan bergabung ke HMPS SI para mahasiswa
@@ -802,7 +802,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/hermanto.jpg" class="img-fluid" alt="">
+              <img src="img/team/Andry.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Andry</h4>
@@ -814,7 +814,7 @@
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/agus.jpg" class="img-fluid" alt="">
+              <img src="img/team/towi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Tony Wirawan</h4>
@@ -826,7 +826,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team/kelly.jpg" class="img-fluid" alt="">
+              <img src="img/team/licen.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Li Cen</h4>
@@ -843,10 +843,10 @@
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/melna.jpg" class="img-fluid" alt="">
+              <img src="img/team/Julia.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Julia</h4>
+                  <h4>Julia Veronica</h4>
                   <span>First Secretary</span>
                 </div>
               </div>
@@ -893,14 +893,14 @@
           </div>
 
         <center>
-          <h4>Multimedia Division</h4>
+          <h4  class="mt-5">Multimedia Division</h4>
         </center>
         <div class="row">
 
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/eko.jpg" class="img-fluid" alt="">
+              <img src="img/team/Hendy.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Hendy</h4>
@@ -912,7 +912,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/nando.jpg" class="img-fluid" alt="">
+              <img src="img/team/Rino.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Rino</h4>
@@ -928,10 +928,10 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/frenky.jpg" class="img-fluid" alt="">
+              <img src="img/team/jimmy.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Jimmy</h4>
+                  <h4>Jimmy Prawira Samudra</h4>
                   <span>Content Creator</span>
                 </div>
               </div>
@@ -940,7 +940,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/rach.jpg" class="img-fluid" alt="">
+              <img src="img/team/Cn.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Cindy Ariadi</h4>
@@ -964,7 +964,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team/priscelia.jpg" class="img-fluid" alt="">
+              <img src="img/team/Veri.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Veri Hartanto</h4>
@@ -1122,7 +1122,7 @@
         </div> -->
 
         <center>
-          <h4>Programming Division</h4>
+          <h4 class="mt-5">Programming Division</h4>
         </center>
         <div class="row">
 
@@ -1141,7 +1141,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/derick.jpg" class="img-fluid" alt="">
+              <img src="img/team/Romi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>M.Romi Muhtarom</h4>
@@ -1161,10 +1161,10 @@
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/eric.jpg" class="img-fluid" alt="">
+              <img src="img/team/Indra.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Indra</h4>
+                  <h4>Indra Saputra</h4>
                   <span>Web Programmer</span>
                 </div>
               </div>
@@ -1173,7 +1173,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/ananda.jpg" class="img-fluid" alt="">
+              <img src="img/team/kelvin.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Kelvin</h4>
@@ -1185,7 +1185,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/charlie.jpg" class="img-fluid" alt="">
+              <img src="img/team/Eriec.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Eiric Tanijaya</h4>
@@ -1263,14 +1263,16 @@
         </div> -->
 
         <center>
-          <h4>Publication & Communication Division</h4>
+          <h4 class="mt-5">Publication & Communication Division</h4>
         </center>
         <div class="row">
 
+        <div style="width:12%;">
+          </div>
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/meili.jpg" class="img-fluid" alt="">
+              <img src="img/team/Meili.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Meiliverani Erline</h4>
@@ -1280,30 +1282,96 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          </div>
+        </div>
+
+        <div class="row">
+        
+          <div class="col-lg-3 offset-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/rocky.jpg" class="img-fluid" alt="">
+              <img src="img/team/Gilang.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Meiliverani Erline</h4>
-                  <span>Mentor of Public. & Comm. Division</span>
+                  <h4>Gilang Ananda</h4>
+                  <span>Head of Social & Public Relation</span>
                 </div>
               </div>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/team/Suryanto.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Suryanto</h4>
+                  <span>Member</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="member">
+              <img src="img/team/Frenky.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Frenky</h4>
+                  <span>Head of Social Media</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="member">
+              <img src="img/team/Dion.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Dion</h4>
+                  <span>Instagram & Youtube</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="member">
+              <img src="img/team/David.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>David</h4>
+                  <span>Instagram & Youtube</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+            <div class="member">
+              <img src="img/team/Metta.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Mettatama Gandha Puspita</h4>
+                  <span>Article Writer</span>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
         <div class="row">
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/rino.jpg" class="img-fluid" alt="">
+              <img src="img/team/Melvy.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Rino</h4>
-                  <span>Member</span>
+                  <h4>Melvy Devalia</h4>
+                  <span>Head of Event & Education</span>
                 </div>
               </div>
             </div>
@@ -1311,10 +1379,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/jensen.jpg" class="img-fluid" alt="">
+              <img src="img/team/Audrey.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Jensen Kho</h4>
+                  <h4>Audrey Saudjhana</h4>
                   <span>Member</span>
                 </div>
               </div>
@@ -1323,10 +1391,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/andy.jpg" class="img-fluid" alt="">
+              <img src="img/team/Hermanto.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Andy Chandra</h4>
+                  <h4>Hermanto</h4>
                   <span>Member</span>
                 </div>
               </div>
@@ -1334,10 +1402,10 @@
           </div>
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/justin.jpg" class="img-fluid" alt="">
+              <img src="img/team/Putra.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Justin</h4>
+                  <h4>Putra Pamungkas</h4>
                   <span>Member</span>
                 </div>
               </div>
@@ -1346,35 +1414,7 @@
 
         </div>
 
-        <div class="row">
-
-
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/jenny.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Jenny June</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/kelfia.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Kelfia Limanda</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        
 
         <!-- <center>
           <h4>Membership Division</h4>
