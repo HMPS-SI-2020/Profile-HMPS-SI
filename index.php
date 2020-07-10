@@ -1188,7 +1188,7 @@
               <img src="img/team/Eriec.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Eiric Tanijaya</h4>
+                  <h4>Eriec Tanijaya</h4>
                   <span>Mobile & Desktop App Programmer</span>
                 </div>
               </div>
