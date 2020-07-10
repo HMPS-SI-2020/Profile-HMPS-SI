@@ -1332,7 +1332,7 @@
               <img src="img/team/Dion.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Dion</h4>
+                  <h4>Nursudiono</h4>
                   <span>Instagram & Youtube</span>
                 </div>
               </div>
@@ -1356,7 +1356,7 @@
               <img src="img/team/Metta.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Mettatama Gandha Puspita</h4>
+                  <h4>Mettatama Gandha <br> Puspita</h4>
                   <span>Article Writer</span>
                 </div>
               </div>
