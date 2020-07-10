@@ -170,20 +170,20 @@
                 Kemahasiswaan yang dibentuk bersamaan dengan dibentuknya
                 Program Studi Sistem Informadsi . HMPS SI berdiri di bawah Fakultas Ilmu Komputer Program studi Sistem
                 Informasi yang dibimbing oleh Bapak/Ibu Dosen SI dan memiliki
-                6 divisi antara lain:</p>
+                3 divisi antara lain:</p>
 
               <ul>
                 <li><i class="ion-android-checkmark-circle"></i> Divisi Pemrograman</li>
                 <li><i class="ion-android-checkmark-circle"></i> Divisi Multimedia</li>
-                <li><i class="ion-android-checkmark-circle"></i> Divisi Jaringan</li>
+                <li><i class="ion-android-checkmark-circle"></i> Divisi Publikasi dan Komunikasi</li>
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi Informasi dan Komunikasi</li> -->
-                <li><i class="ion-android-checkmark-circle"></i> Divisi Keanggotaan</li>
+                <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi Keanggotaan</li> -->
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi E-Sport</li> -->
               </ul>
 
-              <p>Sampai Sekarang (Tahun Ajaran 2019/2020) HMPS SI telah memiliki anggota sebanyak 43 orang, yang
+              <p>Sampai Sekarang (Tahun Ajaran 2020/2021) HMPS SI telah memiliki anggota sebanyak 27 orang, yang
                 masing-masing memiliki peran tersendiri baik dalam struktur
-                organisasi maupun masing-masing devisi. Setiap mahasiswa Prodi SI memiliki hak untuk bergabung dalam
+                organisasi maupun masing-masing divisi. Setiap mahasiswa Prodi SI memiliki hak untuk bergabung dalam
                 HMPS SI. Dengan bergabung ke HMPS SI para mahasiswa
                 dapat mengasah kemampuan bersosial dan komunikasi baik dengan sesama anggota maupun mahasiswa lainnya
                 bahkan dosen. selain itu kelebihan yang dimiliki oleh
@@ -790,7 +790,7 @@
 
           <div class="col-lg-3 offset-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/tony.jpg" class="img-fluid" alt="">
+              <img src="img/team/Afandi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Afandi Wu</h4>
@@ -855,7 +855,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/rk.jpg" class="img-fluid" alt="">
+              <img src="img/team/Celine.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Celine Te</h4>
@@ -867,7 +867,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/licen.jpg" class="img-fluid" alt="">
+              <img src="img/team/Wisely.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Wisely Liang</h4>
@@ -952,7 +952,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/putra.jpg" class="img-fluid" alt="">
+              <img src="img/team/Gio.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Giovanno Estevan</h4>
@@ -1129,7 +1129,7 @@
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/jedi.jpg" class="img-fluid" alt="">
+              <img src="img/team/Steven.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Steven Salim</h4>
@@ -1188,8 +1188,8 @@
               <img src="img/team/charlie.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Mobile & Desktop App Programmer</h4>
-                  <span>Eiric Tanijaya</span>
+                  <h4>Eiric Tanijaya</h4>
+                  <span>Mobile & Desktop App Programmer</span>
                 </div>
               </div>
             </div>
