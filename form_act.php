@@ -29,7 +29,7 @@ if($tipe_file == "image/jpeg" || $tipe_file == "image/png"){ // Cek apakah tipe 
     if(move_uploaded_file($tmp_file, $path)){ // Cek apakah gambar berhasil diupload atau tidak
       // Jika gambar berhasil diupload, Lakukan :  
       // Proses simpan ke Database
-      $query = "INSERT INTO gambar(nama,ukuran,tipe) VALUES('".$nama_file."','".$ukuran_file."','".$tipe_file."')";
+      $query1 = "INSERT INTO gambar(nama,ukuran,tipe) VALUES('".$nama_file."','".$ukuran_file."','".$tipe_file."')";
       $sql = mysqli_query($connect, $query); 
 
      		 $query = mysqli_query($link,"insert into maba2020 values('','".$email."','".$regno."','".$nama."','".$tmpt."','".$tgl."','".$hobby."','".$asal."','".$phonenumber."','".$idline."','".$nama_file."', '".$ukuran_file."', '".$tipe_file."')");
@@ -39,7 +39,7 @@ if($tipe_file == "image/jpeg" || $tipe_file == "image/png"){ // Cek apakah tipe 
 
       // Eksekusi/ Jalankan query dari variabel $query
       
-      if($sql){ // Cek jika proses simpan ke database sukses atau tidak
+      if($query){ // Cek jika proses simpan ke database sukses atau tidak
         // Jika Sukses, Lakukan :
         header("location: index.php?pesan=sukses"); // Redirectke halaman index.php
       }else{  

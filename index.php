@@ -38,6 +38,24 @@
     License: https://bootstrapmade.com/license/
     ======================================================= -->
 </head>
+<?php
+  
+  if(isset($_GET['pesan'])){
+      if($_GET['pesan'] == "sukses"){
+        echo '<script type="text/javascript"> alert("Success!!!"); </script>'; 
+      }
+    }
+  else if(isset($_GET['pesan'])){
+      if($_GET['pesan'] == "gagalinput"){
+      echo '<script type="text/javascript"> alert("Failed!!!"); </script>'; 
+
+      }
+    }
+
+
+
+?>
+
 
 <body>
   <!--==========================
