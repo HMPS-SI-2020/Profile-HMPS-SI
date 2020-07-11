@@ -105,7 +105,7 @@
     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
 
       <div class="carousel-inner">
-        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.JPG"></div>
+        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.png"></div>
 
       </div>
 
@@ -366,7 +366,7 @@
               </div>
             </div>
 
-            <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
+            <!-- <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
                 <div class="box row">
                   <div class="col-md-2">
                     <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
@@ -380,7 +380,7 @@
                         jaringan.</p>
                   </div>
                 </div>
-              </div>
+              </div> -->
           <!-- the new -->
         </div>
 
