@@ -33,9 +33,9 @@ if($tipe_file == "image/jpeg" || $tipe_file == "image/png"){ // Cek apakah tipe 
       $sql = mysqli_query($connect, $query); 
 
      		 $query = mysqli_query($link,"insert into maba2020 values('','".$email."','".$regno."','".$nama."','".$tmpt."','".$tgl."','".$hobby."','".$asal."','".$phonenumber."','".$idline."','".$nama_file."', '".$ukuran_file."', '".$tipe_file."')");
- 				if($query){
-				 header("location:index.php");
-				 }
+ 				// if($query){
+				//  header("location:index.php");
+				//  }
 
       // Eksekusi/ Jalankan query dari variabel $query
       
@@ -44,7 +44,6 @@ if($tipe_file == "image/jpeg" || $tipe_file == "image/png"){ // Cek apakah tipe 
         header("location: index.php?pesan=sukses"); // Redirectke halaman index.php
       }else{  
         // Jika Gagal, Lakukan :
-       
         header("location: index.php?pesan=gagalinput");
       }
     }else{
@@ -61,12 +60,7 @@ if($tipe_file == "image/jpeg" || $tipe_file == "image/png"){ // Cek apakah tipe 
 }else{
   // Jika tipe file yang diupload bukan JPG / JPEG / PNG, lakukan :
   header("location: index.php?pesan=type");
-
-
-
-
 }
-
 
  
  ?>

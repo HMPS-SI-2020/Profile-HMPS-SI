@@ -68,11 +68,7 @@
           <li><a href="#services">Programs</a></li>
           <li><a href="#portfolio">Gallery</a></li>
           <li><a href="#team">Team</a></li>
-          <li> <a data-toggle="modal" data-target="#myModal"> Form</a>
-         </li>
-
-
-
+          <li><a data-toggle="modal" data-target="#myModal" href="#" >Form</a></li>
         </ul>
       </nav><!-- .main-nav -->
 
@@ -166,16 +162,23 @@
             <div class="about-content">
               <h2>About HMPS SI</h2>
 
-              <p>Himpunan Mahasiswa Program studi Universitas Internasional Batam (HMPS SI UIB) merupakan Organisasi
+              <p class="py-0 my-3">Himpunan Mahasiswa Program studi Universitas Internasional Batam (HMPS SI UIB) merupakan Organisasi
                 Kemahasiswaan yang dibentuk bersamaan dengan dibentuknya
                 Program Studi Sistem Informadsi . HMPS SI berdiri di bawah Fakultas Ilmu Komputer Program studi Sistem
                 Informasi yang dibimbing oleh Bapak/Ibu Dosen SI dan memiliki
                 3 divisi antara lain:</p>
 
               <ul>
-                <li><i class="ion-android-checkmark-circle"></i> Divisi Pemrograman</li>
-                <li><i class="ion-android-checkmark-circle"></i> Divisi Multimedia</li>
-                <li><i class="ion-android-checkmark-circle"></i> Divisi Publikasi dan Komunikasi</li>
+                <li class="py-0"><i class="ion-android-checkmark-circle"></i> Divisi Pemrograman</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Website Development</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Mobile & Desktop Development</li>
+                <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Divisi Multimedia</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Content Creator</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Photographer & Videographer</li>
+                <li class="pb-0"><i class="ion-android-checkmark-circle"></i> Divisi Publikasi dan Komunikasi</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Social & Public Relation</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Social Media</li>
+                    <li class="px-5 py-0"><i class="ion-arrow-right-c"></i> Event & Education</li>
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi Informasi dan Komunikasi</li> -->
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi Keanggotaan</li> -->
                 <!-- <li><i class="ion-android-checkmark-circle"></i> Divisi E-Sport</li> -->
@@ -216,7 +219,7 @@
               <div class="testimonial-item">
                 <img src="img/quotes/tony.png" class="testimonial-img" alt="">
                 <h3>Tony Wibowo, S.Kom.,MMSI</h3>
-                <h4>Adm=viser I</h4>
+                <h4>Adviser I</h4>
                 <p>
                   "Work for me and i will work for you,
                   Fight for me and i will fight for you."
@@ -381,10 +384,12 @@
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-makrab">Makrab 2018</li>
-              <li data-filter=".filter-pengenalanprodi">Pengenalan Prodi 2018</li>
+              <li data-filter=".filter-pengenalanprodi">Pengenalan Prodi 2019</li>
               <li data-filter=".filter-battle">E-battle Ground</li>
               <li data-filter=".filter-mentoring">Mentoring 2018</li>
-              <li data-filter=".filter-agilr">AGILR SCRUM FOUNDATION</li>
+              <li data-filter=".filter-expo">Expo 2019</li>
+              <li data-filter=".filter-ormawa">Bazar Ormawa 2019</li>
+              <!-- <li data-filter=".filter-agilr">AGILR SCRUM FOUNDATION</li> -->
             </ul>
           </div>
         </div>
@@ -410,11 +415,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Pengenalan Prodi 2018</a></h4>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/2.jpg" data-lightbox="portfolio"
-                    data-title="Pengenalan Prodi 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -422,7 +427,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
             <div class="portfolio-wrap">
               <img src="img/portfolio/agilr/208750.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -435,7 +440,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-makrab">
             <div class="portfolio-wrap">
@@ -473,11 +478,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Pengenalan Prodi 2018</a></h4>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/3.jpg" data-lightbox="portfolio"
-                    data-title="Pengenalan Prodi 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -504,11 +509,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Pengenalan Prodi 2018</a></h4>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/4.jpg" data-lightbox="portfolio"
-                    data-title="Pengenalan Prodi 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -566,11 +571,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Pengenalan Prodi 2018</a></h4>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/5.jpg" data-lightbox="portfolio"
-                    data-title="Pengenalan Prodi 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -628,11 +633,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Parents Gathering 2018</a></h4>
-                <p>Parents Gathering 2018</p>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
+                <p>Pengenalan Prodi 2019</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/6.jpg" data-lightbox="portfolio"
-                    data-title="Parents Gathering 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -691,11 +696,11 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Pengenalan Prodi 2018</a></h4>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/1.jpg" data-lightbox="portfolio"
-                    data-title="Pengenalan Prodi 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -719,7 +724,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
+          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
             <div class="portfolio-wrap">
               <img src="img/portfolio/agilr/208747.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -732,8 +737,43 @@
                 </div>
               </div>
             </div>
+          </div> -->
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/expo/2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Expo 2019</a></h4>
+                <p>Expo 2019</p>
+                <div>
+                  <a href="img/portfolio/expo/2.jpg" data-lightbox="portfolio"
+                    data-title="Expo 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
           </div>
 
+          
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/expo/1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Expo 2019</a></h4>
+                <p>Expo 2019</p>
+                <div>
+                  <a href="img/portfolio/expo/1.jpg" data-lightbox="portfolio"
+                    data-title="Expo 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
               <img src="img/portfolio/E  Battle Ground/1.jpg" class="img-fluid" alt="">
@@ -742,7 +782,23 @@
                 <p>E-Battle Ground 2018</p>
                 <div>
                   <a href="img/portfolio/E  Battle Ground/1.jpg" data-lightbox="portfolio"
-                    data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
+                  data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
+                  class="ion ion-eye"></i></a>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/bazar_ormawa/2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Bazar Ormawa 2019</a></h4>
+                <p>Bazar Ormawa 2019</p>
+                <div>
+                  <a href="img/portfolio/bazar_ormawa/2.jpg" data-lightbox="portfolio"
+                    data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -754,11 +810,43 @@
             <div class="portfolio-wrap">
               <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4><a>Parents Gathering 2018</a></h4>
-                <p>Parents Gathering 2018</p>
+                <h4><a>Pengenalan Prodi 2019</a></h4>
+                <p>Pengenalan Prodi 2019</p>
                 <div>
                   <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/7.jpg" data-lightbox="portfolio"
-                    data-title="Parents Gathering 2018" class="link-preview" title="Preview"><i
+                    data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/bazar_ormawa/1.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Bazar Ormawa 2019</a></h4>
+                <p>Bazar Ormawa 2019</p>
+                <div>
+                  <a href="img/portfolio/bazar_ormawa/1.jpg" data-lightbox="portfolio"
+                    data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/expo/3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Expo 2019</a></h4>
+                <p>Expo 2019</p>
+                <div>
+                  <a href="img/portfolio/expo/3.jpg" data-lightbox="portfolio"
+                    data-title="Expo 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
                 </div>
@@ -767,6 +855,37 @@
           </div>
 
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/bazar_ormawa/3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Bazar Ormawa 2019</a></h4>
+                <p>Bazar Ormawa 2019</p>
+                <div>
+                  <a href="img/portfolio/bazar_ormawa/3.jpg" data-lightbox="portfolio"
+                    data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
+            <div class="portfolio-wrap">
+              <img src="img/portfolio/expo/4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a>Expo 2019</a></h4>
+                <p>Expo 2019</p>
+                <div>
+                  <a href="img/portfolio/expo/4.jpg" data-lightbox="portfolio"
+                    data-title="Expo 2019" class="link-preview" title="Preview"><i
+                      class="ion ion-eye"></i></a>
+
+                </div>
+              </div>
+            </div>
+          </div>
 
         </div>
 
@@ -1287,8 +1406,11 @@
         </div>
 
         <div class="row">
+
+        <div style="width:12%;">
+          </div>
         
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+          <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
               <img src="img/team/Gilang.jpg" class="img-fluid" alt="">
               <div class="member-info">
@@ -1299,22 +1421,7 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/Suryanto.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Suryanto</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-
+          
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/Frenky.jpg" class="img-fluid" alt="">
@@ -1327,9 +1434,33 @@
             </div>
           </div>
 
+          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
+            <div class="member">
+              <img src="img/team/Melvy.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Melvy Devalia</h4>
+                  <span>Head of Event & Education</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          </div>
+
+        </div>
+
+        
+        
+        <div class="row">
+          
+        <div style="width:12%;">
+          </div>
+          
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/Dion.jpg" class="img-fluid" alt="">
+              <img src="img/team/Nursudiono.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Nursudiono</h4>
@@ -1362,20 +1493,14 @@
               </div>
             </div>
           </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+          </div>
+
         </div>
 
         <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/Melvy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melvy Devalia</h4>
-                  <span>Head of Event & Education</span>
-                </div>
-              </div>
-            </div>
-          </div>
+         
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
@@ -1400,12 +1525,25 @@
               </div>
             </div>
           </div>
+
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Putra.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Putra Pamungkas</h4>
+                  <span>Member</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="member">
+              <img src="img/team/Suryanto.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Suryanto</h4>
                   <span>Member</span>
                 </div>
               </div>
@@ -1616,7 +1754,7 @@
 
         <div class="form-group">
             <label>Register Number</label>
-            <input name="noreg" type="text" class="form-control" required placeholder="Register Numbber... (ex: BM202020) ">
+            <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
         </div>
 
           <div class="form-group">
@@ -1657,7 +1795,7 @@
   
           <div class="form-group">
             <label>Phone Number</label>
-            <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ...">
+            <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
           </div>
           <div class="form-group">
             <label>ID LINE</label>
