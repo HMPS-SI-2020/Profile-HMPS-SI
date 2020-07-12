@@ -431,12 +431,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/2.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -478,12 +478,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/E  Battle Ground/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/E  Battle Ground/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/2.jpg" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -494,12 +494,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/3.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -525,12 +525,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/4.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/4.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/4.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -556,12 +556,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/E  Battle Ground/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/E  Battle Ground/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/3.jpg" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -587,12 +587,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/5.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/5.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/5.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -633,12 +633,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/E  Battle Ground/6.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/E  Battle Ground/6.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/6.jpg" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -649,12 +649,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/6.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi 2019</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/6.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/6.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -712,12 +712,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/1.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/1.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -728,12 +728,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/E  Battle Ground/7.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/E  Battle Ground/7.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/7.jpg" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -794,12 +794,12 @@
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/E  Battle Ground/1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/E  Battle Ground/1.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/1.jpg" data-lightbox="portfolio"
                   data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                   class="ion ion-eye"></i></a>
                   
@@ -826,12 +826,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/Pengenalan Prodi & Parents Gathering/7.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi 2019</p>
                 <div>
-                  <a href="img/portfolio/Pengenalan Prodi & Parents Gathering/7.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/7.jpg" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -951,7 +951,7 @@
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/towi.jpg" class="img-fluid" alt="">
+              <img src="img/team/Towi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Tony Wirawan</h4>
@@ -963,7 +963,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team/licen.jpg" class="img-fluid" alt="">
+              <img src="img/team/Licen.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Li Cen</h4>
@@ -1065,7 +1065,7 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/jimmy.jpg" class="img-fluid" alt="">
+              <img src="img/team/Jimmy.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Jimmy Prawira Samudra</h4>
@@ -1310,7 +1310,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team/kelvin.jpg" class="img-fluid" alt="">
+              <img src="img/team/Kelvin.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Kelvin</h4>
