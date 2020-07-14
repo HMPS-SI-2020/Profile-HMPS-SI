@@ -105,7 +105,7 @@
     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
 
       <div class="carousel-inner">
-        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.png"></div>
+        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.jpg"></div>
 
       </div>
 
@@ -431,12 +431,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/2.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/2.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -447,12 +447,12 @@
 
           <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208750.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/agilr/208750.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>AGILR SCRUM FOUNDATION</a></h4>
                 <p>AGILR SCRUM FOUNDATION</p>
                 <div>
-                  <a href="img/portfolio/agilr/208750.jpg" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
+                  <a href="img/portfolio/agilr/208750.JPG" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
                     class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
 
                 </div>
@@ -478,12 +478,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/EBattleGround/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/2.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/EBattleGround/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/2.JPG" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -494,12 +494,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/3.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/3.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -525,12 +525,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/4.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/4.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/4.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/4.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -556,12 +556,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/EBattleGround/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/3.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/EBattleGround/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/3.JPG" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -587,12 +587,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/5.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/5.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/5.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/5.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -608,7 +608,7 @@
                 <h4><a>Mentoring</a></h4>
                 <p>Toonboom Mentoring</p>
                 <div>
-                  <a href="img/portfolio/mentoring/2.jpg" data-lightbox="portfolio" data-title="Mentoring"
+                  <a href="img/portfolio/mentoring/2.JPG" data-lightbox="portfolio" data-title="Mentoring"
                     class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
 
                 </div>
@@ -633,12 +633,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/EBattleGround/6.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/EBattleGround/6.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>E-Battle Ground 2018</a></h4>
                 <p>E-Battle Ground 2018</p>
                 <div>
-                  <a href="img/portfolio/EBattleGround/6.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/EBattleGround/6.JPG" data-lightbox="portfolio"
                     data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -649,12 +649,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/6.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/6.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi 2019</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/6.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/6.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -712,12 +712,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/1.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/1.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/1.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -744,12 +744,12 @@
 
           <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208747.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/agilr/208747.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>AGILR SCRUM FOUNDATION</a></h4>
                 <p>AGILR SCRUM FOUNDATION</p>
                 <div>
-                  <a href="img/portfolio/agilr/208747.jpg" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
+                  <a href="img/portfolio/agilr/208747.JPG" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
                     class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
 
                 </div>
@@ -759,12 +759,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/expo/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/expo/2.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Expo 2019</a></h4>
                 <p>Expo 2019</p>
                 <div>
-                  <a href="img/portfolio/expo/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/expo/2.JPG" data-lightbox="portfolio"
                     data-title="Expo 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -777,12 +777,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/expo/1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/expo/1.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Expo 2019</a></h4>
                 <p>Expo 2019</p>
                 <div>
-                  <a href="img/portfolio/expo/1.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/expo/1.JPG" data-lightbox="portfolio"
                     data-title="Expo 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -810,12 +810,12 @@
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/bazar_ormawa/2.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bazar_ormawa/2.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Bazar Ormawa 2019</a></h4>
                 <p>Bazar Ormawa 2019</p>
                 <div>
-                  <a href="img/portfolio/bazar_ormawa/2.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/bazar_ormawa/2.JPG" data-lightbox="portfolio"
                     data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -826,12 +826,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-pengenalanprodi">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/pengenalanprodi/7.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/pengenalanprodi/7.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Pengenalan Prodi 2019</a></h4>
                 <p>Pengenalan Prodi 2019</p>
                 <div>
-                  <a href="img/portfolio/pengenalanprodi/7.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/pengenalanprodi/7.JPG" data-lightbox="portfolio"
                     data-title="Pengenalan Prodi 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -842,12 +842,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/bazar_ormawa/1.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bazar_ormawa/1.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Bazar Ormawa 2019</a></h4>
                 <p>Bazar Ormawa 2019</p>
                 <div>
-                  <a href="img/portfolio/bazar_ormawa/1.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/bazar_ormawa/1.JPG" data-lightbox="portfolio"
                     data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -858,12 +858,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/expo/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/expo/3.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Expo 2019</a></h4>
                 <p>Expo 2019</p>
                 <div>
-                  <a href="img/portfolio/expo/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/expo/3.JPG" data-lightbox="portfolio"
                     data-title="Expo 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -875,12 +875,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
             <div class="portfolio-wrap">
-              <img src="img/portfolio/bazar_ormawa/3.jpg" class="img-fluid" alt="">
+              <img src="img/portfolio/bazar_ormawa/3.JPG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4><a>Bazar Ormawa 2019</a></h4>
                 <p>Bazar Ormawa 2019</p>
                 <div>
-                  <a href="img/portfolio/bazar_ormawa/3.jpg" data-lightbox="portfolio"
+                  <a href="img/portfolio/bazar_ormawa/3.JPG" data-lightbox="portfolio"
                     data-title="Bazar Ormawa 2019" class="link-preview" title="Preview"><i
                       class="ion ion-eye"></i></a>
 
@@ -955,7 +955,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Tony Wirawan</h4>
-                  <span>General Counsel 1</span>
+                  <span>General Counsel I</span>
                 </div>
               </div>
             </div>
@@ -967,7 +967,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Li Cen</h4>
-                  <span>General Counsel 2</span>
+                  <span>General Counsel II</span>
                 </div>
               </div>
             </div>
@@ -1049,7 +1049,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/Rino.jpg" class="img-fluid" alt="">
+              <img src="img/team/rino.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Rino</h4>
@@ -1430,7 +1430,7 @@
         
           <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/Gilang.jpg" class="img-fluid" alt="">
+              <img src="img/team/gilang.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Gilang Ananda</h4>
@@ -1442,7 +1442,7 @@
           
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
-              <img src="img/team/Frenky.jpg" class="img-fluid" alt="">
+              <img src="img/team/frenky.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Frenky</h4>
@@ -1534,7 +1534,7 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team/Hermanto.jpg" class="img-fluid" alt="">
+              <img src="img/team/hermanto.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Hermanto</h4>
@@ -1755,13 +1755,14 @@
    <!-- modal input -->
 <div id="myModal" class="modal fade">
   <div class="modal-dialog">
-    <div class="modal-content">
+    <div class="modal-content" style="width: 100%">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
         <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
-      <div class="modal-body">
-        <form action="form_act.php" method="post" enctype="multipart/form-data" >
+      <div class="modal-body px-0 py-0">
+      <iframe class="gform" src="https://docs.google.com/forms/d/e/1FAIpQLSedGYdOAkWkk135oSTF2I3pHQBCmW0CEIitURjkzKybuH1FZA/viewform?embedded=true" width="100%" height="2190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        <!-- <form action="form_act.php" method="post" enctype="multipart/form-data" >
         
      
 
@@ -1833,7 +1834,7 @@
           <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
           <input type="submit" class="btn btn-primary" value="Submit">
         </div>
-      </form>
+      </form> -->
     </div>
   </div>
 </div>
