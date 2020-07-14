@@ -291,43 +291,6 @@
         </header>
 
         <div class="row">
-          <!-- the old -->
-          <!-- <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/mulmed.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Multimedia</a></h4>
-              <p class="description">Mempelajari dan meng-explore mengenai teknologi digital dan multimedia sebagai
-                media komunikasi.
-                Mengolah berbagai media seperti foto, video, animasi, teks, audio, grafik, design visual dan media
-                lainnya secara kreatif dan inovatif dengan fungsi memberi informasi, menyampaikan pesan, menghibur dan
-                mengajak.</p>
-            </div>
-          </div>
-          <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/program.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Programming</a></h4>
-              <p class="description">Melatih mahasiswa/i Sistem Informasi untuk mampu menganalisa, membangun
-                (developing), menguji (testing), memperbaiki (debug) dan mempertahankan
-                kode dari suatu program. Mengenalkan berbagai macam bahasa pemrograman yang banyak digunakan dikalangan
-                developer. Melatih skill dalam algoritma, logika, problem solving dan
-                bahasa pemrograman dengan capaian dapat membuat sebuah program sesuai yang dibutuhkan, baik program
-                desktop, mobile maupun web.</p>
-            </div>
-          </div>
-
-          <div class="col-md-12 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Networking</a></h4>
-              <p class="description"> Memfokuskan mahasiswa/i kepada penerapan dan penggunaan jaringan, baik antar
-                komputer maupun device lainnya dengan tujuan terhubung untuk saling
-                sharing atau pengiriman data dan resources lainnya. Memantapkan skill dalam penggunaan perangkat keras
-                (hardware) maupun perangkat lunak (software) untuk membangun sebuah
-                jaringan</p>
-            </div>
-          </div> -->
-          <!-- the old -->
 
           <!-- the new -->
           <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
@@ -364,22 +327,8 @@
               </div>
             </div>
 
-            <!-- <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
-                <div class="box row">
-                  <div class="col-md-2">
-                    <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
-                    <h4 class="title"><a href="">Networking</a></h4>
-                  </div>
-                  <div class="col-md-10">
-                    <p class="description">Memfokuskan mahasiswa/i kepada penerapan dan penggunaan jaringan, baik antar
-                        komputer maupun device lainnya dengan tujuan terhubung untuk saling
-                        sharing atau pengiriman data dan resources lainnya. Memantapkan skill dalam penggunaan perangkat keras
-                        (hardware) maupun perangkat lunak (software) untuk membangun sebuah
-                        jaringan.</p>
-                  </div>
-                </div>
-              </div> -->
           <!-- the new -->
+
         </div>
 
       </div>
@@ -442,21 +391,6 @@
               </div>
             </div>
           </div>
-
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208750.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a>AGILR SCRUM FOUNDATION</a></h4>
-                <p>AGILR SCRUM FOUNDATION</p>
-                <div>
-                  <a href="img/portfolio/agilr/208750.jpg" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
-                    class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-
-                </div>
-              </div>
-            </div>
-          </div> -->
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-makrab">
             <div class="portfolio-wrap">
@@ -740,21 +674,6 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208747.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a>AGILR SCRUM FOUNDATION</a></h4>
-                <p>AGILR SCRUM FOUNDATION</p>
-                <div>
-                  <a href="img/portfolio/agilr/208747.jpg" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
-                    class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-
-                </div>
-              </div>
-            </div>
-          </div> -->
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
               <img src="img/portfolio/expo/2.jpg" class="img-fluid" alt="">
@@ -1009,18 +928,6 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/gilang.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Gilang Ananda</h4>
-                  <span>Second Treasurer</span>
-                </div>
-              </div>
-            </div>
-          </div> -->
-
         </div>
 
         <center>
@@ -1103,152 +1010,6 @@
           </div>
         </div>
 
-        <!-- <div class="row">
-
-          <div style="width:12%;">
-          </div>
-
-          <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/edy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Edy</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/dian.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Dian Putri Manelsi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/rk.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Raudlatul Khairiah A.</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div> -->
-
-        <!-- <center>
-          <h4>Networking Division</h4>
-        </center>
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/hermanto.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Hermanto</h4>
-                  <span>Head of Networking Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/arif.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Arif Kurniadi</h4>
-                  <span>Mentor of Networking Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/agus.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Agusyanto</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/bill.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Bill Delvin</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/kelvin.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Kelvin</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/tony.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Tony Wirawan</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div style="width:38%;">
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/hendy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Hendy</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <center>
           <h4 class="mt-5">Programming Division</h4>
         </center>
@@ -1322,72 +1083,10 @@
           </div>
         </div>
 
-          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/gilang.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Gilang Ananda</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/melna.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melna Caintan</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/licen.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Licen</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/ryo.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Ryo Kusnadi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/romi.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>M.Romi Muhtarom</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <center>
           <h4 class="mt-5">Publication & Communication Division</h4>
         </center>
+
         <div class="row">
           <div style="width:12%;"></div>
 
@@ -1539,178 +1238,7 @@
           </div>
 
         </div>
-
-        <!-- <center>
-          <h4>Membership Division</h4>
-        </center>
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/melvy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melvy Devalia</h4>
-                  <span>Head of Membership Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/rizki.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Rizki Dwi Nugrah</h4>
-                  <span>Mentor of Membership Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/jhon.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Jhon Carlie</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/ricky.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Ricky Verniando</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/melvin.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melvin Nicholas A.</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/rosita.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Rosita Tandiono</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/indra.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Indra</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/alton.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Alton Lunandi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-
-
-        <center>
-          <h4>E-Sports Division</h4>
-        </center>
-        <div class="row">
-          <div class="row">
-            <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-              <div class="member">
-                <img src="img/team/herman.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Herman</h4>
-                    <span>Mentor</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-              <div class="member">
-                <img src="img/team/hendy.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Hendy</h4>
-                    <span>PIC Dota 2</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-              <div class="member">
-                <img src="img/team/melvin.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Melvin Nicholas A.</h4>
-                    <span>PIC Mobile Legend</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="member">
-                <img src="img/team/tonytan.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Tony Tan</h4>
-                    <span>Mentor</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div> -->
+        
       </div>
     </section>
 
