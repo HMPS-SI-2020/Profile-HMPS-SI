@@ -31,7 +31,8 @@
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <!-- development pake yg regular css -->
+  <link href="css/style.min.css" rel="stylesheet">
 
   <!-- =======================================================
     Theme Name: Rapid
@@ -43,19 +44,17 @@
 
 <?php
   
-  if(isset($_GET['pesan'])){
-      if($_GET['pesan'] == "sukses"){
-        echo '<script type="text/javascript"> alert("Success!!!"); </script>'; 
-      }
+  if (isset($_GET['pesan'])) {
+    if ($_GET['pesan'] == "sukses") {
+      echo '<script type="text/javascript"> alert("Aye aye success!"); </script>'; 
+    } else if ($_GET['pesan'] == "gagalinput"){
+      echo '<script type="text/javascript"> alert("Data gagal diinput"); </script>'; 
+    } else if ($_GET['pesan'] == "ukuran"){
+      echo '<script type="text/javascript"> alert("Upload foto dengan ukuran kurang dari 1 MB yak!"); </script>'; 
+    } else if ($_GET['pesan'] == "type"){
+      echo '<script type="text/javascript"> alert("Format foto yang diterima hanya jpg atau png!"); </script>'; 
     }
-  else if(isset($_GET['pesan'])){
-      if($_GET['pesan'] == "gagalinput"){
-      echo '<script type="text/javascript"> alert("Failed!!!"); </script>'; 
-
-      }
-    }
-
-
+  }
 
 ?>
 
@@ -1716,87 +1715,83 @@
     </section>
 
     <!-- modal input -->
-    <div id="myModal" class="modal fade">
-      <div class="modal-dialog">
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
             <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
           </div>
-          <div class="modal-body">
-            <form action="form_act.php" method="post" enctype="multipart/form-data" >
-            
-        
 
-            <div class="form-group">
-                <label>Email</label>
-                <input name="email" type="email" class="form-control" required placeholder="Your Email...">
-            </div>
+          <form action="form_act.php" method="post" enctype="multipart/form-data" >
+            <div class="modal-body">
 
-            <div class="form-group">
-                <label>Register Number</label>
-                <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
-            </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input name="email" type="email" class="form-control" required placeholder="Your Email...">
+                </div>
 
-              <div class="form-group">
-                <label>Full Name</label>
-                <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
-              </div>
+                <div class="form-group">
+                    <label>Register Number</label>
+                    <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
+                </div>
 
-              <div class="form-group">
-                <label>Place of Birth</label>
-                <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
-              </div>
+                <div class="form-group">
+                  <label>Full Name</label>
+                  <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
+                </div>
 
-              <div class="form-group">
-                <label>Date Of Birth</label>
-                <input name="tgl" type="date" class="form-control" required>
-              </div>
+                <div class="form-group">
+                  <label>Place of Birth</label>
+                  <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
+                </div>
 
-              <div class="form-group">
-                <label>Hobby</label>
-                <select name="hobby" type="text" class="form-control">
-                    
-                      <option>Sports </option>
-                      <option>Game</option>
-                      <option>Eating</option>
-                      <option>Walking</option>
-                      <option>the rest of it</option>
-                      <option>Others</option>
-                    
-                  </select>
-                  
-              </div>
-          
-              <div class="form-group">
-                <label>School Origin</label>
-                <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
-              </div>  
+                <div class="form-group">
+                  <label>Date Of Birth</label>
+                  <input name="tgl" type="date" class="form-control" required>
+                </div>
 
-      
-              <div class="form-group">
-                <label>Phone Number</label>
-                <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
-              </div>
-              <div class="form-group">
-                <label>ID LINE</label>
-                <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
-              </div>
-
-              <div class="form-group">
-                <label>Picture</label>
-                <input name="gambar" type="file" accept="image/*" class="form-control" required>
-
-              </div>
+                <div class="form-group">
+                  <label>Hobby</label>
+                  <select name="hobby" type="text" class="form-control">
+                    <option>Sports </option>
+                    <option>Game</option>
+                    <option>Eating</option>
+                    <option>Walking</option>
+                    <option>the rest of it</option>
+                    <option>Others</option>  
+                  </select> 
+                </div>
               
+                <div class="form-group">
+                  <label>School Origin</label>
+                  <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
+                </div>
+          
+                <div class="form-group">
+                  <label>Phone Number</label>
+                  <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
+                </div>
 
-                                        
+                <div class="form-group">
+                  <label>ID LINE</label>
+                  <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
+                </div>
+
+                <div class="form-group">
+                  <label>Picture</label>
+                  <input name="gambar" type="file" accept="image/*" class="form-control" required>
+                </div>               
             </div>
+
             <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
               <input type="submit" class="btn btn-primary" value="Submit">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
             </div>
-          </form>
+          </form>  
+
         </div>
       </div>
     </div>
