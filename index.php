@@ -19,7 +19,9 @@
     rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
 
   <!-- Libraries CSS Files -->
   <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -38,6 +40,7 @@
     License: https://bootstrapmade.com/license/
     ======================================================= -->
 </head>
+
 <?php
   
   if(isset($_GET['pesan'])){
@@ -55,7 +58,6 @@
 
 
 ?>
-
 
 <body>
   <!--==========================
@@ -94,9 +96,6 @@
   </header><!-- #header -->
 
 
-
-
-
   <!--==========================
     Intro Section
     ============================-->
@@ -105,7 +104,7 @@
     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
 
       <div class="carousel-inner">
-        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.png"></div>
+        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.webp"></div>
 
       </div>
 
@@ -263,7 +262,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="img/team/herman.jpg" class="testimonial-img" alt="">
+                <img src="img/team/herman.png" class="testimonial-img" alt="">
                 <h3>Herman, S.Kom</h3>
                 <h4>Mentor</h4>
                 <p>
@@ -335,7 +334,7 @@
           <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box row">
               <div class="col-md-2">
-                <img src="img/logo/mulmed.png" style="height:50px;margin-bottom:20px;">
+                <img src="img/logo/mulmed.webp" style="height:50px;margin-bottom:20px;">
                 <h4 class="title"><a href="">Multimedia</a></h4>
               </div>
               <div class="col-md-10">
@@ -360,7 +359,7 @@
                       desktop, mobile maupun web.</p>
                 </div>
                 <div class="col-md-2">
-                    <img src="img/logo/program.png" style="height:50px;margin-bottom:20px;">
+                    <img src="img/logo/program.webp" style="height:50px;margin-bottom:20px;">
                     <h4 class="title"><a href="">Programing</a></h4>
                   </div>
               </div>
@@ -923,8 +922,6 @@
           <h4>Core Division</h4>
         </center>
         <div class="row">
-
-
           <div class="col-lg-3 offset-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Afandi.jpg" class="img-fluid" alt="">
@@ -975,8 +972,7 @@
         </div>
 
         <div class="row">
-          <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1025,16 +1021,14 @@
               </div>
             </div>
           </div> -->
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-          </div>
+
+        </div>
 
         <center>
           <h4  class="mt-5">Multimedia Division</h4>
         </center>
+
         <div class="row">
-
-
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/Hendy.jpg" class="img-fluid" alt="">
@@ -1058,8 +1052,6 @@
               </div>
             </div>
           </div>
-
-
         </div>
 
         <div class="row">
@@ -1263,7 +1255,6 @@
         </center>
         <div class="row">
 
-
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/Steven.jpg" class="img-fluid" alt="">
@@ -1293,8 +1284,7 @@
         </div>
 
         <div class="row">
-          <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1331,10 +1321,7 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-          </div>
+        </div>
 
           <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
@@ -1403,9 +1390,7 @@
           <h4 class="mt-5">Publication & Communication Division</h4>
         </center>
         <div class="row">
-
-        <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1419,14 +1404,10 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
         </div>
 
         <div class="row">
-
-        <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
         
           <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
@@ -1464,17 +1445,12 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-
         </div>
 
         
         
-        <div class="row">
-          
-        <div style="width:12%;">
-          </div>
+        <div class="row">  
+          <div style="width:12%;"></div>
           
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
@@ -1512,14 +1488,9 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-
         </div>
 
         <div class="row">
-         
-
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Audrey.jpg" class="img-fluid" alt="">
@@ -1569,8 +1540,6 @@
           </div>
 
         </div>
-
-        
 
         <!-- <center>
           <h4>Membership Division</h4>
@@ -1693,8 +1662,6 @@
           <h4>E-Sports Division</h4>
         </center>
         <div class="row">
-
-
           <div class="row">
             <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
               <div class="member">
@@ -1745,123 +1712,124 @@
             </div>
 
           </div> -->
-
-
-
-    
-
-
-
-   <!-- modal input -->
-<div id="myModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
       </div>
-      <div class="modal-body">
-        <form action="form_act.php" method="post" enctype="multipart/form-data" >
+    </section>
+
+    <!-- modal input -->
+    <div id="myModal" class="modal fade">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
+          </div>
+          <div class="modal-body">
+            <form action="form_act.php" method="post" enctype="multipart/form-data" >
+            
         
-     
 
-        <div class="form-group">
-            <label>Email</label>
-            <input name="email" type="email" class="form-control" required placeholder="Your Email...">
-        </div>
+            <div class="form-group">
+                <label>Email</label>
+                <input name="email" type="email" class="form-control" required placeholder="Your Email...">
+            </div>
 
-        <div class="form-group">
-            <label>Register Number</label>
-            <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
-        </div>
+            <div class="form-group">
+                <label>Register Number</label>
+                <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
+            </div>
 
-          <div class="form-group">
-            <label>Full Name</label>
-            <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
-          </div>
+              <div class="form-group">
+                <label>Full Name</label>
+                <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
+              </div>
 
-          <div class="form-group">
-            <label>Place of Birth</label>
-            <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
-          </div>
+              <div class="form-group">
+                <label>Place of Birth</label>
+                <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
+              </div>
 
-          <div class="form-group">
-            <label>Date Of Birth</label>
-            <input name="tgl" type="date" class="form-control" required>
-          </div>
+              <div class="form-group">
+                <label>Date Of Birth</label>
+                <input name="tgl" type="date" class="form-control" required>
+              </div>
 
-          <div class="form-group">
-            <label>Hobby</label>
-            <select name="hobby" type="text" class="form-control">
-                
-                  <option>Sports </option>
-                  <option>Game</option>
-                  <option>Eating</option>
-                   <option>Walking</option>
-                   <option>the rest of it</option>
-                   <option>Others</option>
-                
-              </select>
-              
-          </div>
-      
-          <div class="form-group">
-            <label>School Origin</label>
-            <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
-          </div>  
-
-  
-          <div class="form-group">
-            <label>Phone Number</label>
-            <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
-          </div>
-          <div class="form-group">
-            <label>ID LINE</label>
-            <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
-          </div>
-
-          <div class="form-group">
-            <label>Picture</label>
-            <input name="gambar" type="file" accept="image/*" class="form-control" required>
-
-          </div>
+              <div class="form-group">
+                <label>Hobby</label>
+                <select name="hobby" type="text" class="form-control">
+                    
+                      <option>Sports </option>
+                      <option>Game</option>
+                      <option>Eating</option>
+                      <option>Walking</option>
+                      <option>the rest of it</option>
+                      <option>Others</option>
+                    
+                  </select>
+                  
+              </div>
           
+              <div class="form-group">
+                <label>School Origin</label>
+                <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
+              </div>  
 
-                                    
+      
+              <div class="form-group">
+                <label>Phone Number</label>
+                <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
+              </div>
+              <div class="form-group">
+                <label>ID LINE</label>
+                <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
+              </div>
+
+              <div class="form-group">
+                <label>Picture</label>
+                <input name="gambar" type="file" accept="image/*" class="form-control" required>
+
+              </div>
+              
+
+                                        
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+              <input type="submit" class="btn btn-primary" value="Submit">
+            </div>
+          </form>
         </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-          <input type="submit" class="btn btn-primary" value="Submit">
-        </div>
-      </form>
+      </div>
     </div>
-  </div>
-</div>
 
-</div>
+  </main>
 
 
-    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-    <!-- Uncomment below i you want to use a preloader -->
-    <!-- <div id="preloader"></div> -->
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
 
-    <!-- JavaScript Libraries -->
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/jquery/jquery-migrate.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/mobile-nav/mobile-nav.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
-    <!-- Contact Form JavaScript File -->
-    <script src="contactform/contactform.js"></script>
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <!-- <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+  <!-- JavaScript and dependencies -->
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+  
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/mobile-nav/mobile-nav.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
 
-    <!-- Template Main Javascript File -->
-    <script src="js/main.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
 
 </body>
 
