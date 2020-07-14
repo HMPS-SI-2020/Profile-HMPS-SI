@@ -103,7 +103,7 @@
     <div class="carousel slide" data-ride="carousel" id="carouselExampleIndicators">
 
       <div class="carousel-inner">
-        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.webp"></div>
+        <div class="carousel-item active"><img alt="First slide" class="d-block w-100" src="img/slider1.jpg"></div>
 
       </div>
 
@@ -1717,7 +1717,7 @@
     <!-- modal input -->
     <div id="myModal" class="modal fade" role="dialog">
       <div class="modal-dialog" role="document">
-        <div class="modal-content">
+        <div class="modal-content" style="width: 100%">
           <div class="modal-header">
             <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
@@ -1725,72 +1725,9 @@
             </button>
           </div>
 
-          <form action="form_act.php" method="post" enctype="multipart/form-data" >
-            <div class="modal-body">
-
-                <div class="form-group">
-                    <label>Email</label>
-                    <input name="email" type="email" class="form-control" required placeholder="Your Email...">
-                </div>
-
-                <div class="form-group">
-                    <label>Register Number</label>
-                    <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
-                </div>
-
-                <div class="form-group">
-                  <label>Full Name</label>
-                  <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
-                </div>
-
-                <div class="form-group">
-                  <label>Place of Birth</label>
-                  <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
-                </div>
-
-                <div class="form-group">
-                  <label>Date Of Birth</label>
-                  <input name="tgl" type="date" class="form-control" required>
-                </div>
-
-                <div class="form-group">
-                  <label>Hobby</label>
-                  <select name="hobby" type="text" class="form-control">
-                    <option>Sports </option>
-                    <option>Game</option>
-                    <option>Eating</option>
-                    <option>Walking</option>
-                    <option>the rest of it</option>
-                    <option>Others</option>  
-                  </select> 
-                </div>
-              
-                <div class="form-group">
-                  <label>School Origin</label>
-                  <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
-                </div>
-          
-                <div class="form-group">
-                  <label>Phone Number</label>
-                  <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
-                </div>
-
-                <div class="form-group">
-                  <label>ID LINE</label>
-                  <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
-                </div>
-
-                <div class="form-group">
-                  <label>Picture</label>
-                  <input name="gambar" type="file" accept="image/*" class="form-control" required>
-                </div>               
-            </div>
-
-            <div class="modal-footer">
-              <input type="submit" class="btn btn-primary" value="Submit">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-            </div>
-          </form>  
+          <div class="modal-body px-0 py-0">
+            <iframe class="gform" src="https://docs.google.com/forms/d/e/1FAIpQLSedGYdOAkWkk135oSTF2I3pHQBCmW0CEIitURjkzKybuH1FZA/viewform?embedded=true" width="100%" height="2190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          </div>
 
         </div>
       </div>
