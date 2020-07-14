@@ -18,6 +18,7 @@ body {
 a {
   color: #6446a3;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 a:hover,
@@ -165,6 +166,7 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
+  /* background-color: #fff; */
 }
 
 #header.header-scrolled,

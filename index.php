@@ -19,17 +19,20 @@
     rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+  <!-- CSS only -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
 
   <!-- Libraries CSS Files -->
-  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="lib/animate/animate.min.css" rel="stylesheet">
-  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" integrity="sha512-xA6Hp6oezhjd6LiLZynuukm80f8BoZ3OpcEYaqKoCV3HKQDrYjDE1Gu8ocxgxoXmwmSzM4iqPvCsOkQNiu41GA==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.0/animate.min.css" integrity="sha512-kb1CHTNhoLzinkElTgWn246D6pX22xj8jFNKsDmVwIQo+px7n1yjJUZraVuR/ou6Kmgea4vZXZeUDbqKtXkEMg==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/icon.min.css" integrity="sha512-DR9Jj0uFIfe7v1QLrvPRusRxqdSnVSVRyRBt1H8gcRQgxMKEwsOMSNYs0hyIpo8AITFyCMDC2Q1fCg1XcgdYig==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" integrity="sha512-X/RSQYxFb/tvuz6aNRTfKXDnQzmnzoawgEQ4X8nZNftzs8KFFH23p/BA6D2k0QCM4R0sY1DEy9MIY9b3fwi+bg==" crossorigin="anonymous" />
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <!-- development pake yg regular css -->
+  <link href="css/style.min.css" rel="stylesheet">
 
   <!-- =======================================================
     Theme Name: Rapid
@@ -38,24 +41,6 @@
     License: https://bootstrapmade.com/license/
     ======================================================= -->
 </head>
-<?php
-  
-  if(isset($_GET['pesan'])){
-      if($_GET['pesan'] == "sukses"){
-        echo '<script type="text/javascript"> alert("Success!!!"); </script>'; 
-      }
-    }
-  else if(isset($_GET['pesan'])){
-      if($_GET['pesan'] == "gagalinput"){
-      echo '<script type="text/javascript"> alert("Failed!!!"); </script>'; 
-
-      }
-    }
-
-
-
-?>
-
 
 <body>
   <!--==========================
@@ -92,9 +77,6 @@
 
     </div>
   </header><!-- #header -->
-
-
-
 
 
   <!--==========================
@@ -293,49 +275,12 @@
         </header>
 
         <div class="row">
-          <!-- the old -->
-          <!-- <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/mulmed.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Multimedia</a></h4>
-              <p class="description">Mempelajari dan meng-explore mengenai teknologi digital dan multimedia sebagai
-                media komunikasi.
-                Mengolah berbagai media seperti foto, video, animasi, teks, audio, grafik, design visual dan media
-                lainnya secara kreatif dan inovatif dengan fungsi memberi informasi, menyampaikan pesan, menghibur dan
-                mengajak.</p>
-            </div>
-          </div>
-          <div class="col-md-12 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/program.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Programming</a></h4>
-              <p class="description">Melatih mahasiswa/i Sistem Informasi untuk mampu menganalisa, membangun
-                (developing), menguji (testing), memperbaiki (debug) dan mempertahankan
-                kode dari suatu program. Mengenalkan berbagai macam bahasa pemrograman yang banyak digunakan dikalangan
-                developer. Melatih skill dalam algoritma, logika, problem solving dan
-                bahasa pemrograman dengan capaian dapat membuat sebuah program sesuai yang dibutuhkan, baik program
-                desktop, mobile maupun web.</p>
-            </div>
-          </div>
-
-          <div class="col-md-12 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
-            <div class="box">
-              <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
-              <h4 class="title"><a href="">Networking</a></h4>
-              <p class="description"> Memfokuskan mahasiswa/i kepada penerapan dan penggunaan jaringan, baik antar
-                komputer maupun device lainnya dengan tujuan terhubung untuk saling
-                sharing atau pengiriman data dan resources lainnya. Memantapkan skill dalam penggunaan perangkat keras
-                (hardware) maupun perangkat lunak (software) untuk membangun sebuah
-                jaringan</p>
-            </div>
-          </div> -->
-          <!-- the old -->
 
           <!-- the new -->
           <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box row">
               <div class="col-md-2">
-                <img src="img/logo/mulmed.png" style="height:50px;margin-bottom:20px;">
+                <img src="img/logo/mulmed.webp" style="height:50px;margin-bottom:20px;">
                 <h4 class="title"><a href="">Multimedia</a></h4>
               </div>
               <div class="col-md-10">
@@ -350,7 +295,7 @@
 
           <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
               <div class="box row">
-                
+
                 <div class="col-md-10">
                   <p class="description">Melatih mahasiswa/i Sistem Informasi untuk mampu menganalisa, membangun
                       (developing), menguji (testing), memperbaiki (debug) dan mempertahankan
@@ -360,28 +305,14 @@
                       desktop, mobile maupun web.</p>
                 </div>
                 <div class="col-md-2">
-                    <img src="img/logo/program.png" style="height:50px;margin-bottom:20px;">
+                    <img src="img/logo/program.webp" style="height:50px;margin-bottom:20px;">
                     <h4 class="title"><a href="">Programing</a></h4>
                   </div>
               </div>
             </div>
 
-            <!-- <div class="col-lg-12 wow bounceInUp" data-wow-duration="1.4s">
-                <div class="box row">
-                  <div class="col-md-2">
-                    <img src="img/logo/jaringan.png" style="height:50px;margin-bottom:20px;">
-                    <h4 class="title"><a href="">Networking</a></h4>
-                  </div>
-                  <div class="col-md-10">
-                    <p class="description">Memfokuskan mahasiswa/i kepada penerapan dan penggunaan jaringan, baik antar
-                        komputer maupun device lainnya dengan tujuan terhubung untuk saling
-                        sharing atau pengiriman data dan resources lainnya. Memantapkan skill dalam penggunaan perangkat keras
-                        (hardware) maupun perangkat lunak (software) untuk membangun sebuah
-                        jaringan.</p>
-                  </div>
-                </div>
-              </div> -->
           <!-- the new -->
+
         </div>
 
       </div>
@@ -444,21 +375,6 @@
               </div>
             </div>
           </div>
-
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208750.JPG" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a>AGILR SCRUM FOUNDATION</a></h4>
-                <p>AGILR SCRUM FOUNDATION</p>
-                <div>
-                  <a href="img/portfolio/agilr/208750.JPG" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
-                    class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-
-                </div>
-              </div>
-            </div>
-          </div> -->
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-makrab">
             <div class="portfolio-wrap">
@@ -742,21 +658,6 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-agilr">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/agilr/208747.JPG" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a>AGILR SCRUM FOUNDATION</a></h4>
-                <p>AGILR SCRUM FOUNDATION</p>
-                <div>
-                  <a href="img/portfolio/agilr/208747.JPG" data-lightbox="portfolio" data-title="AGILR SCRUM FOUNDATION"
-                    class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-
-                </div>
-              </div>
-            </div>
-          </div> -->
-
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
               <img src="img/portfolio/expo/2.JPG" class="img-fluid" alt="">
@@ -773,7 +674,7 @@
             </div>
           </div>
 
-          
+
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-expo">
             <div class="portfolio-wrap">
@@ -791,7 +692,7 @@
             </div>
           </div>
 
-          
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-battle">
             <div class="portfolio-wrap">
               <img src="img/portfolio/EBattleGround/1.jpg" class="img-fluid" alt="">
@@ -802,12 +703,12 @@
                   <a href="img/portfolio/EBattleGround/1.jpg" data-lightbox="portfolio"
                   data-title="E-Battle Ground 2018" class="link-preview" title="Preview"><i
                   class="ion ion-eye"></i></a>
-                  
+
                 </div>
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-4 col-md-6 portfolio-item filter-ormawa">
             <div class="portfolio-wrap">
               <img src="img/portfolio/bazar_ormawa/2.JPG" class="img-fluid" alt="">
@@ -923,8 +824,6 @@
           <h4>Core Division</h4>
         </center>
         <div class="row">
-
-
           <div class="col-lg-3 offset-lg-3 col-md-6 col-12 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Afandi.jpg" class="img-fluid" alt="">
@@ -975,8 +874,7 @@
         </div>
 
         <div class="row">
-          <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1014,27 +912,13 @@
             </div>
           </div>
 
-          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/gilang.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Gilang Ananda</h4>
-                  <span>Second Treasurer</span>
-                </div>
-              </div>
-            </div>
-          </div> -->
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-          </div>
+        </div>
 
         <center>
           <h4  class="mt-5">Multimedia Division</h4>
         </center>
+
         <div class="row">
-
-
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/Hendy.jpg" class="img-fluid" alt="">
@@ -1058,8 +942,6 @@
               </div>
             </div>
           </div>
-
-
         </div>
 
         <div class="row">
@@ -1112,157 +994,10 @@
           </div>
         </div>
 
-        <!-- <div class="row">
-
-          <div style="width:12%;">
-          </div>
-
-          <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/edy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Edy</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/dian.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Dian Putri Manelsi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/rk.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Raudlatul Khairiah A.</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div> -->
-
-        <!-- <center>
-          <h4>Networking Division</h4>
-        </center>
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/hermanto.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Hermanto</h4>
-                  <span>Head of Networking Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/arif.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Arif Kurniadi</h4>
-                  <span>Mentor of Networking Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/agus.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Agusyanto</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/bill.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Bill Delvin</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/kelvin.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Kelvin</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/tony.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Tony Wirawan</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div style="width:38%;">
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/hendy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Hendy</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
-
         <center>
           <h4 class="mt-5">Programming Division</h4>
         </center>
         <div class="row">
-
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1293,8 +1028,7 @@
         </div>
 
         <div class="row">
-          <div style="width:12%;">
-          </div>
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1331,81 +1065,14 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-          </div>
-
-          <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/gilang.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Gilang Ananda</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/melna.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melna Caintan</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/licen.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Licen</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/ryo.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Ryo Kusnadi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/romi.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>M.Romi Muhtarom</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> -->
 
         <center>
           <h4 class="mt-5">Publication & Communication Division</h4>
         </center>
-        <div class="row">
 
-        <div style="width:12%;">
-          </div>
+        <div class="row">
+          <div style="width:12%;"></div>
 
           <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
@@ -1419,15 +1086,11 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
         </div>
 
         <div class="row">
+          <div style="width:12%;"></div>
 
-        <div style="width:12%;">
-          </div>
-        
           <div class="col-lg-3  col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
               <img src="img/team/gilang.jpg" class="img-fluid" alt="">
@@ -1439,7 +1102,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
             <div class="member">
               <img src="img/team/frenky.jpg" class="img-fluid" alt="">
@@ -1464,18 +1127,13 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-
         </div>
 
-        
-        
+
+
         <div class="row">
-          
-        <div style="width:12%;">
-          </div>
-          
+          <div style="width:12%;"></div>
+
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Nursudiono.jpg" class="img-fluid" alt="">
@@ -1512,14 +1170,9 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-
         </div>
 
         <div class="row">
-         
-
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
               <img src="img/team/Audrey.jpg" class="img-fluid" alt="">
@@ -1570,299 +1223,58 @@
 
         </div>
 
-        
-
-        <!-- <center>
-          <h4>Membership Division</h4>
-        </center>
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/melvy.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melvy Devalia</h4>
-                  <span>Head of Membership Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/rizki.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Rizki Dwi Nugrah</h4>
-                  <span>Mentor of Membership Division</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-            <div class="member">
-              <img src="img/team/jhon.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Jhon Carlie</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/ricky.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Ricky Verniando</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/melvin.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Melvin Nicholas A.</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team/rosita.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Rosita Tandiono</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-
-
-          <div class="col-lg-3 offset-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team/indra.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Indra</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team/alton.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Alton Lunandi</h4>
-                  <span>Member</span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-          </div>
-        </div>
-
-
-
-        <center>
-          <h4>E-Sports Division</h4>
-        </center>
-        <div class="row">
-
-
-          <div class="row">
-            <div class="col-lg-3 col-md-6 wow bounceInUp" data-wow-duration="1.4s">
-              <div class="member">
-                <img src="img/team/herman.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Herman</h4>
-                    <span>Mentor</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-              <div class="member">
-                <img src="img/team/hendy.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Hendy</h4>
-                    <span>PIC Dota 2</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-              <div class="member">
-                <img src="img/team/melvin.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Melvin Nicholas A.</h4>
-                    <span>PIC Mobile Legend</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-              <div class="member">
-                <img src="img/team/tonytan.jpg" class="img-fluid" alt="">
-                <div class="member-info">
-                  <div class="member-info-content">
-                    <h4>Tony Tan</h4>
-                    <span>Mentor</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-          </div> -->
-
-
-
-    
-
-
-
-   <!-- modal input -->
-<div id="myModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content" style="width: 100%">
-      <div class="modal-header">
-        <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
       </div>
-      <div class="modal-body px-0 py-0">
-      <iframe class="gform" src="https://docs.google.com/forms/d/e/1FAIpQLSedGYdOAkWkk135oSTF2I3pHQBCmW0CEIitURjkzKybuH1FZA/viewform?embedded=true" width="100%" height="2190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        <!-- <form action="form_act.php" method="post" enctype="multipart/form-data" >
-        
-     
+    </section>
 
-        <div class="form-group">
-            <label>Email</label>
-            <input name="email" type="email" class="form-control" required placeholder="Your Email...">
+    <!-- modal input -->
+    <div id="myModal" class="modal fade" role="dialog">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content" style="width: 100%">
+          <div class="modal-header">
+            <h4 class="modal-title">Form Mahasiswa Sistem Informasi UIB</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
+          <div class="modal-body px-0 py-0">
+            <iframe class="gform" src="https://docs.google.com/forms/d/e/1FAIpQLSedGYdOAkWkk135oSTF2I3pHQBCmW0CEIitURjkzKybuH1FZA/viewform?embedded=true" width="100%" height="2190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          </div>
+
         </div>
-
-        <div class="form-group">
-            <label>Register Number</label>
-            <input name="noreg" type="text" class="form-control" required placeholder="Register Number... (ex: BM202020) ">
-        </div>
-
-          <div class="form-group">
-            <label>Full Name</label>
-            <input name="nama" type="text" class="form-control" required placeholder="Full Name ...">
-          </div>
-
-          <div class="form-group">
-            <label>Place of Birth</label>
-            <input name="tmpt" type="text" class="form-control" required placeholder="Place Of Birth ...">
-          </div>
-
-          <div class="form-group">
-            <label>Date Of Birth</label>
-            <input name="tgl" type="date" class="form-control" required>
-          </div>
-
-          <div class="form-group">
-            <label>Hobby</label>
-            <select name="hobby" type="text" class="form-control">
-                
-                  <option>Sports </option>
-                  <option>Game</option>
-                  <option>Eating</option>
-                   <option>Walking</option>
-                   <option>the rest of it</option>
-                   <option>Others</option>
-                
-              </select>
-              
-          </div>
-      
-          <div class="form-group">
-            <label>School Origin</label>
-            <input name="asal" type="text" class="form-control" required placeholder="School Origin ...">
-          </div>  
-
-  
-          <div class="form-group">
-            <label>Phone Number</label>
-            <input name="nohp" type="number" class="form-control" required placeholder="Phone Number ..." maxlength="13">
-          </div>
-          <div class="form-group">
-            <label>ID LINE</label>
-            <input name="id_line" type="text" class="form-control" required placeholder="ID LINE ...">
-          </div>
-
-          <div class="form-group">
-            <label>Picture</label>
-            <input name="gambar" type="file" accept="image/*" class="form-control" required>
-
-          </div>
-          
-
-                                    
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
-          <input type="submit" class="btn btn-primary" value="Submit">
-        </div>
-      </form> -->
+      </div>
     </div>
-  </div>
-</div>
-
-</div>
 
 
-    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-    <!-- Uncomment below i you want to use a preloader -->
-    <!-- <div id="preloader"></div> -->
+  </main>
 
-    <!-- JavaScript Libraries -->
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/jquery/jquery-migrate.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/mobile-nav/mobile-nav.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
-    <!-- Contact Form JavaScript File -->
-    <script src="contactform/contactform.js"></script>
 
-    <!-- Template Main Javascript File -->
-    <script src="js/main.js"></script>
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
+
+  <!-- JavaScript Libraries -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-migrate-3.3.1.min.js" integrity="sha256-APllMc0V4lf/Rb5Cz4idWUCYlBDG3b0EcN1Ushd3hpE=" crossorigin="anonymous"></script>
+  <!-- <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+  <!-- JavaScript and dependencies -->
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous"></script>
+  <script src="lib/mobile-nav/mobile-nav.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js" integrity="sha512-d8F1J2kyiRowBB/8/pAWsqUl0wSEOkG5KATkVV4slfblq9VRQ6MyDZVxWl2tWd+mPhuCbpTB4M7uU/x9FlgQ9Q==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js" integrity="sha512-9CWGXFSJ+/X0LWzSRCZFsOPhSfm6jbnL+Mpqo0o8Ke2SYr8rCTqb4/wGm+9n13HtDE1NQpAEOrMecDZw4FXQGg==" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha512-Zq2BOxyhvnRFXu0+WE6ojpZLOU2jdnqbrM1hmVdGzyeCa1DgM3X5Q4A/Is9xA1IkbUeDd7755dNNI/PzSf2Pew==" crossorigin="anonymous"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
 
 </body>
 
